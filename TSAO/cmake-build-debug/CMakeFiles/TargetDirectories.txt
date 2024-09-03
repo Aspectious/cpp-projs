@@ -1,0 +1,3 @@
+C:/Users/griff/dev/cpp/TSAO/cmake-build-debug/CMakeFiles/TSAO.dir
+C:/Users/griff/dev/cpp/TSAO/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/griff/dev/cpp/TSAO/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+C:/Users/griff/dev/cpp/win32/audiedit/cmake-build-debug/CMakeFiles/audiedit.dir
+C:/Users/griff/dev/cpp/win32/audiedit/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/griff/dev/cpp/win32/audiedit/cmake-build-debug/CMakeFiles/rebuild_cache.dir
